@@ -1,0 +1,22 @@
+.mainContainer {
+    background: pink;
+    min-height: 100vh;
+}
+footer {
+    min-height: 200px;
+    background: purple;
+}
+.labelID {
+    font-size: x-large;
+    border: rebeccapurple;
+    border-radius: initial;
+    font-style: italic;
+}
+.inputID {
+    font-size: large;
+    font-style: italic;
+
+}
+header {
+    font-style: italic;
+}
